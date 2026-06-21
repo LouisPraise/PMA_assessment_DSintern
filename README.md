@@ -14,8 +14,6 @@ This repository delivers an end-to-end data science assessment analyzing the **G
 ## 🛠️ Project Architecture & Methodology
 
 ```text
-├── data/
-│   └── external/            # Global Weather Repository dataset from Kaggle
 ├── notebooks/
 │   └── weather_trend_forecasting.ipynb   # Complete verified workflow code
 ├── reports/
