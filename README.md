@@ -49,8 +49,8 @@ This repository delivers an end-to-end data science assessment analyzing the **G
 ### Installation
 1.  **Clone this open-source repository:**
     ```bash
-    git clone https://github.com
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/LouisPraise/PMA_assessment_DSintern.git
+    cd PMA_assessment_DSintern
     ```
 2.  **Install all required libraries:**
     ```bash
@@ -63,7 +63,7 @@ This repository delivers an end-to-end data science assessment analyzing the **G
 
 ## 🎥 Project Screen-Share Demo Video
 A comprehensive 1-to-2 minute screen-sharing video walkthrough covering the modular codebase execution steps, local file architecture, and analytical output validations is available here:
-👉 **[Watch the Submission Demo Video Here](INSERT_YOUR_YOUTUBE_OR_GOOGLE_DRIVE_LINK)**
+👉 **[Watch the Submission Demo Video Here](https://drive.google.com/drive/folders/1O4W89GVl5LTzmV2hu8f9X0AfEanf1ag3?usp=sharing)**
 
 ---
 
